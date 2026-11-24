@@ -1,0 +1,5 @@
+@"
+/bin/
+/.settings/
+*.class
+"@ | Set-Content -Encoding utf8 .gitignore
